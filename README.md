@@ -1,5 +1,5 @@
 # greeter-scripts
-Collection of terminal greeter scripts I make.
+Collection of terminal greeter scripts I've made.
 
 # Installation
 
